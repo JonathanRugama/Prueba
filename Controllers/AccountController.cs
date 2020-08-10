@@ -20,6 +20,7 @@ namespace Prueba.Controllers
 
         public AccountController()
         {
+            //prueba 123
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
